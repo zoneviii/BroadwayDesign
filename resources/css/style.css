@@ -24,6 +24,7 @@ h3 {
 
 .heading {
   background-image: url("./resources/images/the-flatiron-building.png");
+  padding-bottom: 20px;
 }
 
 .navigation a {
@@ -38,7 +39,7 @@ h3 {
   color: white;
 }
 
-.footer {
+.footer, .footer a {
   background-color: dimgray;
   font-size: 11px;
   color: white;
