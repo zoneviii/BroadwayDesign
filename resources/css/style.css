@@ -5,3 +5,42 @@ body {
   color: black;
   text-align: center;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.heading {
+  background-image: url("./resources/images/the-flatiron-building.png");
+}
+
+.navigation a {
+  font-size: 18px;
+  color: white;
+}
+
+.divider {
+  background-image: url("./resources/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
